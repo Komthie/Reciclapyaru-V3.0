@@ -1,8 +1,22 @@
 ## Painel de Lixo Reciclável com Integração de Mapa Interativo
 
+![image](https://github.com/user-attachments/assets/098be1b0-0e86-4fa5-80a7-dfd25e44007b)
+
+![image](https://github.com/user-attachments/assets/838d8bbc-c4a6-4632-b143-5b7eb829c439)
+
+![image](https://github.com/user-attachments/assets/904237b9-c7fa-4cb3-a24e-3aabcd1fdab8)
+
+![image](https://github.com/user-attachments/assets/6334d663-3bb3-4450-bd48-cb868e1c4193)
+
+
+
 Este projeto apresenta um painel interativo que auxilia na identificação e localização de pontos de reciclagem, além de alertar sobre áreas de risco ambiental. A ferramenta utiliza o poder do Folium para visualizar dados georreferenciados, facilitando o entendimento da distribuição espacial das informações.
 
 ### Funcionalidades:
+
+
+    ![image](https://github.com/user-attachments/assets/fa49a029-3772-4579-b537-c9ac2b0f1ad4)
+
 
     Verificação de Reciclagem: Informe o nome de um objeto e o sistema indicará se ele é reciclável ou não, incentivando a prática da coleta seletiva.
 
