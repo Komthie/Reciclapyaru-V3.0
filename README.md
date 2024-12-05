@@ -1,5 +1,6 @@
 ## Painel de Lixo Reciclável com Integração de Mapa Interativo
 
+
 ![image](https://github.com/user-attachments/assets/098be1b0-0e86-4fa5-80a7-dfd25e44007b)
 
 ![image](https://github.com/user-attachments/assets/838d8bbc-c4a6-4632-b143-5b7eb829c439)
@@ -56,6 +57,10 @@ Este projeto apresenta um painel interativo que auxilia na identificação e loc
 
     Clone o repositório.
     Inatale a biblitoeca folium 
+
+### Mascote Pyaru ! 
+![image](https://github.com/user-attachments/assets/9a565865-847c-4924-bc25-37885e5d9e0a)
+    
 Próximos passos:
 
     Buscaremos lancar a versao 4.0 muito em breve com a parceria da Prefeitura de Ararangua.
