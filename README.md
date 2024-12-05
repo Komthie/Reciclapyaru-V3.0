@@ -8,6 +8,12 @@
 
 ![image](https://github.com/user-attachments/assets/6334d663-3bb3-4450-bd48-cb868e1c4193)
 
+![image](https://github.com/user-attachments/assets/9a1e5d0a-e468-4303-9f67-78497898cb9b)
+
+![image](https://github.com/user-attachments/assets/25b062e8-82f5-4d3b-bd9f-6709d5f18114)
+
+![image](https://github.com/user-attachments/assets/fe823fe4-a1d3-4155-928c-8502a3a304a1)
+
 
 
 Este projeto apresenta um painel interativo que auxilia na identificação e localização de pontos de reciclagem, além de alertar sobre áreas de risco ambiental. A ferramenta utiliza o poder do Folium para visualizar dados georreferenciados, facilitando o entendimento da distribuição espacial das informações.
